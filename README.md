@@ -1,0 +1,2 @@
+# SecondThriftStore
+Proyek 1
